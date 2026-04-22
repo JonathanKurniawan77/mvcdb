@@ -59,6 +59,3 @@ class Model
         );
     }
 }
-//untuk mengambil data buku dari database, dan mengembalikannya dalam bentuk objek Book. 
-// Method getBookList() untuk mendapatkan daftar semua buku, 
-// sedangkan getBook($id) untuk mendapatkan detail buku berdasarkan ID.

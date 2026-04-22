@@ -29,4 +29,3 @@ class Controller
 }
 
 ?>
-// untuk menerima request dari index.php, lalu memprosesnya dengan model, dan menampilkan hasilnya dengan view.

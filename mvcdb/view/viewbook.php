@@ -15,4 +15,3 @@
     <p><a href="index.php">Back to book list</a></p>
 </body>
 </html>
-//untuk menunjukkan detail buku yang dipilih

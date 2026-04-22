@@ -17,4 +17,3 @@ class Book
 }
 
 ?>
-//menunjukkan isi buku secara singkat

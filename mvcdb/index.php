@@ -3,4 +3,3 @@
     $controller = new Controller();
     $controller->invoke();
 ?>
-//untuk memanggil controller

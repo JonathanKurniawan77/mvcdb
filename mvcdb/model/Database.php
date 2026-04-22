@@ -24,4 +24,3 @@ class Database
 }
 
 ?>
-//untuk menghubungkan ke database, dan menyediakan method untuk mendapatkan koneksi database.

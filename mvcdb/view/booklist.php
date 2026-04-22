@@ -30,4 +30,3 @@
     </table>
 </body>
 </html>
-//untuk menampilkan daftar buku yang tersedia
